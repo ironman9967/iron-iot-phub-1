@@ -1,4 +1,4 @@
 
 console.log('phub-1 app')
 
-setTimeout(() => ({}), 600000)
+setTimeout(() => ({}), 6000000)
